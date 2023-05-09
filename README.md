@@ -1,2 +1,1 @@
-# Algorithmic Python
-1) Mersenne_Twister
+# Mersenne Twister in Python
