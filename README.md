@@ -1,2 +1,2 @@
-# Algorithmic
-Some of my Algorithms
+# Algorithmic Python
+1) Mersenne_Twister
